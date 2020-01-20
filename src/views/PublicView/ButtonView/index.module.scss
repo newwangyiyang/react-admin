@@ -1,0 +1,8 @@
+@import '../../../assets/scss/scss-mixins.scss';
+
+.button-wrap {
+    :global(.ant-btn) {
+        margin-right: 8px;
+        margin-bottom: 7px;
+    }
+}

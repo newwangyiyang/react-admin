@@ -1,0 +1,19 @@
+// scss-package: 基本配置进行覆盖,例如: 颜色、高度范围、圆角...
+$color-list: ((0, #fff), (1, #333), (2, #666), (3, #fbfbf4b3), (4, #1890ff));
+$marginPaddingList: 40,
+50,
+60,
+70,
+80,
+90,
+100,
+200,
+300,
+400;
+
+@import '~scss-package/index.scss';
+
+$wechat: #70ca63;
+$qq: #967adc;
+$dingding: #5d5dfd;
+$weibo: #fb452d;

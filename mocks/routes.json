@@ -1,0 +1,7 @@
+{
+	"/api/user/:id": "/user/?userId=:id",
+	"/api/userLogin/:username/:password": "/user?username=:username&password=:password",
+	"/api/user/getByToken/:token": "/user/?token=:token",
+	"/api/user?username=:username": "/user?username=:username",
+	"/api/demo/:id": "/demo?productId=:id"
+}

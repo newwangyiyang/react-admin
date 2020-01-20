@@ -1,0 +1,23 @@
+@import '../../assets/scss/scss-mixins.scss';
+
+.home-wrap {
+	.base-icon {
+		color: #fbfbf4b3;
+	}
+
+	.wechat {
+		background-color: $wechat;
+	}
+
+	.qq {
+		background-color: $qq;
+	}
+
+	.dingding {
+		background-color: $dingding;
+	}
+
+	.weibo {
+		background-color: $weibo;
+	}
+}

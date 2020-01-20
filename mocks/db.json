@@ -1,0 +1,27 @@
+{
+  "user": [{
+      "userId": 1,
+      "username": "wyy",
+      "password": "111",
+      "age": 27,
+      "sex": 1,
+      "token": "1",
+      "auth": "admin"
+    },
+    {
+      "userId": 2,
+      "username": "mz",
+      "password": "111",
+      "age": 26,
+      "sex": 0,
+      "token": "1",
+      "auth": "user"
+    }
+  ],
+  "demo": [{
+    "productName": "Iphone11",
+    "productPrice": "5499.00",
+    "productColor": "Yellow",
+    "productId": "m8u3i24qti"
+  }]
+}
